@@ -31,9 +31,6 @@
             </tr>
         </thead>
                 
-
-
- 
           <tbody>
                 @forelse ($carUsages as $usage)
                     <tr>

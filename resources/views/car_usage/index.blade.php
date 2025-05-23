@@ -30,6 +30,7 @@
                 <th style="width: 20%;">หมายเหตุ</th>
             </tr>
         </thead>
+                
 
 
  
@@ -58,4 +59,13 @@
         </table>
     </div>
 </div>
+
+
+
+
+
+
+
+
+
 @endsection

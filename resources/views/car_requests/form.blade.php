@@ -81,7 +81,7 @@
                         </div>
                         <div class="col-12 mb-3">
                             <label class="form-label fw-bold">เหตุผล (ถ้ามี)</label>
-                            <textarea name="reason" class="form-control rounded" rows="8" placeholder="เหตุผล (ถ้ามี)"></textarea>
+                            <textarea name="reason" class="form-control rounded" rows="6" placeholder="เหตุผล (ถ้ามี)"></textarea>
                         </div>
                     </div>
                                                 

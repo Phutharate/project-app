@@ -85,7 +85,7 @@
                 <div class="row mb-3">
                     <div class="col-md-12">
                         <label class="form-label">หมายเหตุ:</label>
-                        <textarea name="remark" rows="6" class="form-control"></textarea>
+                        <textarea name="remark" rows="10" class="form-control"></textarea>
                     </div>
                 </div>
 

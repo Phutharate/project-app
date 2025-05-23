@@ -18,7 +18,7 @@
                     <input type="date" name="date" id="date" class="form-control" required>
                 </div>
                 <div class="col-md-3">
-                    <label for="time" class="form-label fw-semibold">เวลา</label>
+                    <label for="time" class="form-label fw-semibold">เวลาออก</label>
                     <input type="time" name="time" id="time" class="form-control" required>
                 </div>
                 <div class="col-md-4">
@@ -27,7 +27,7 @@
                 </div>
             </div>
 
-            {{-- แถวที่ 2 --}}
+             {{-- แถวที่ 2 --}}
             <div class="row mb-3">
                 <div class="col-md-5">
                     <label for="destination" class="form-label fw-semibold">สถานที่ไป</label>
@@ -66,7 +66,7 @@
                     </div>
                 </div>
 
-                {{-- แถวที่ 5 - หมายเหตุ (ย้ายลงมาล่างสุด) --}}
+                    {{-- แถวที่ 5 - หมายเหตุ (ย้ายลงมาล่างสุด) --}}
                 <div class="row mb-3">
                     <div class="col-md-12">
                         <label for="notes" class="form-label fw-semibold">หมายเหตุ</label>

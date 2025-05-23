@@ -59,6 +59,7 @@
                             </div>
                         </div>
 
+
                         <div class="col-md-4 mb-3">
                             <label class="form-label fw-bold">ทะเบียนรถ</label>
                             <input type="text" name="car_registration" class="form-control rounded" placeholder="พนักงานขับรถยนต์" required readonly>
@@ -99,7 +100,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
     <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
     <script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/th.js"></script>
-
+    
     <script>
         function formatBuddhistDate(dateObj) {
             const buddhistYear = dateObj.getFullYear() + 543;

@@ -59,7 +59,6 @@
                             </div>
                         </div>
 
-
                         <div class="col-md-4 mb-3">
                             <label class="form-label fw-bold">ทะเบียนรถ</label>
                             <input type="text" name="car_registration" class="form-control rounded" placeholder="พนักงานขับรถยนต์" required readonly>
